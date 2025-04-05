@@ -1,9 +1,7 @@
-Cloud Sniper Slack Bot (to be refactored)
-=============
-![alt text](../../images/logo.png "button_bot")
+
 
 ## Slack bot integration
-This bot is CloudSniper's Slack automation. The bot works with AWS Lambda functions to manage messages and send them to slack.
+This bot is CloudSniper's Slack automation. The bot works with Lambda functions to manage messages and send them to slack.
 The bot can also handle `slack actions` using `API GATEWAY` and `SLACK BOT`.
 
 #### Event management
